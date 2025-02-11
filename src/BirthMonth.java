@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BirthMonth {
     public static void main(String[] args) {
         // Scanner + variable declaration
         Scanner in = new Scanner(System.in);
